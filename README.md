@@ -35,5 +35,8 @@ The robot reads an 8-sensor IR array, maps the sensor pattern to a positional er
 - I2C OLED display
 - Bluetooth module (HC-05)
 
+## System Architecture
+![System Architecture](system_architecture.svg)
+
 ## Built By
 Shrey Pathak — EE Student at San José State University
